@@ -1,0 +1,27 @@
+from selenium import webdriver
+import time
+username1 = input("username : ")
+password1 = input("pass : ")
+browser = webdriver.Firefox(executable_path="C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python39\\geckodriver.exe")
+browser.get("https://www.instagram.com")
+time.sleep(8)
+
+username = browser.find_element_by_name("username")
+username.send_keys("username1")
+password = browser.find_element_by_name('password')
+password.send_keys("password1")
+login_click = browser.find_element_by_xpath('//*[@id="loginForm"]/div/div[3]')
+login_click.click()
+time.sleep(6)
+# click2 = browser.find_element_by_xpath('//*[@id="react-root"]/section/main/div/div/div/div/button')
+# time.sleep(6)
+browser.get("https://www.instagram.com/canberkeh")
+time.sleep(6)
+click3 = browser.find_element_by_xpath('//*[@id="react-root"]/section/main/div/header/section/ul/li[2]/a')
+click3.click()
+time.sleep(6)
+followers = browser.find_element_by_css_selector("div[role=dialog] ul").find_elements_by_css_selector("li")
+time.sleep(5)
+for user in followers:
+    follower = user.find_element_by_css_selector("a").get_attribute("href")
+    print(follower)

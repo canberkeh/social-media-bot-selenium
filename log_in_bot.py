@@ -30,12 +30,12 @@ class SocialMediaBot():
             print("\nChoose Social Media\n1- Instagram\n2- Twitter")
             select = input("Make selection 1/2 : ")
             if select == "1":
-                given_username = input("Enter Instagram Username or Email :")
+                given_username = input("Enter Instagram Username : ")
                 given_password = getpass("Enter Insragram Password :")
                 self.instagram_login_bot(given_username, given_password, browser_name, browser_path)
 
             elif select == "2":
-                given_username = input("Enter Twitter Username or Email :")
+                given_username = input("Enter Twitter Username : ")
                 given_password = getpass("Enter Twitter Password :")
                 self.twitter_login_bot(given_username, given_password, browser_name, browser_path)
 
@@ -62,11 +62,11 @@ class SocialMediaBot():
         """ Enter username"""
         username = browser.find_element_by_name('session[username_or_email]')
         username.send_keys(given_username)
-        time.sleep(5)
+
         """Enter pasword"""
         password = browser.find_element_by_name('session[password]')
         password.send_keys(given_password)
-        time.sleep(5)
+
         """Clicks to loging button"""
         login_click = browser.find_element_by_xpath('/html/body/div/div/div/div[2]/main/div/div/div[1]/form/div/div[3]/div/div')
         login_click.click()
@@ -74,7 +74,6 @@ class SocialMediaBot():
     def instagram_login_bot(self, given_username, given_password, browser_name, browser_path):
         
         print("Instagram Login Bot")
-        #First i picked up browser that i want to use 
         #Open site from browser
         if browser_name == "1":
             browser = webdriver.Chrome(executable_path=browser_path)
@@ -87,14 +86,20 @@ class SocialMediaBot():
         """ Enter username"""
         username = browser.find_element_by_name("username")
         username.send_keys(given_username)
-        time.sleep(5)
+
         """Enter pasword"""
         password = browser.find_element_by_name('password')
         password.send_keys(given_password)
-        time.sleep(5)
+
         """Clicks to loging button"""
         login_click = browser.find_element_by_xpath('//*[@id="loginForm"]/div/div[3]')
         login_click.click()
+
+        # def instagram_get_followers(self, browser_name):
+        #     browser.get("https://www.instagram.com")
+        #     get_followers = browser.find_element_by_xpath("//*[@id='react-root']/section/main/div/header/section/ul/li[2]/a")
+        #     get_followers.click() 
+
 
 work = SocialMediaBot()
 work.choose_browser()
