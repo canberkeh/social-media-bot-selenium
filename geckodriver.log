@@ -261,3 +261,564 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1607622978661	Marionette	INFO	Listening on port 51463
 1607622978986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607693492264	geckodriver	INFO	Listening on 127.0.0.1:59080
+1607693495275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilem5gipP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607693501733	Marionette	INFO	Listening on port 59088
+1607693502178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607693620999	geckodriver	INFO	Listening on 127.0.0.1:59211
+1607693624011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileCrSNtp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607693627785	Marionette	INFO	Listening on port 59219
+1607693628152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607694206286	geckodriver	INFO	Listening on 127.0.0.1:59553
+1607694209312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileKV7aZ9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607694213413	Marionette	INFO	Listening on port 59564
+1607694213534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607694332543	geckodriver	INFO	Listening on 127.0.0.1:59663
+1607694335551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileWbopGZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607694340582	Marionette	INFO	Listening on port 59672
+1607694340852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607694376020	geckodriver	INFO	Listening on 127.0.0.1:59722
+1607694379042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiled6qgTx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607694383340	Marionette	INFO	Listening on port 59730
+1607694383791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607694402009	geckodriver	INFO	Listening on 127.0.0.1:59765
+1607694405024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile8TO29X"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1607694408904	Marionette	INFO	Listening on port 59773
+1607694409190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607694455735	geckodriver	INFO	Listening on 127.0.0.1:59829
+1607694458759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile5HtxR0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607694462929	Marionette	INFO	Listening on port 59839
+1607694463034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607695449353	geckodriver	INFO	Listening on 127.0.0.1:60221
+1607695452363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile5Sl9he"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607695456919	Marionette	INFO	Listening on port 60231
+1607695457154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607695481615	geckodriver	INFO	Listening on 127.0.0.1:60302
+1607695484625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile2jeWoW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607695488778	Marionette	INFO	Listening on port 60313
+1607695488896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607695577714	geckodriver	INFO	Listening on 127.0.0.1:60420
+1607695580728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileCt1VK0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607695586217	Marionette	INFO	Listening on port 60432
+1607695586504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607708803510	geckodriver	INFO	Listening on 127.0.0.1:51540
+1607708806622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileo0ZkY3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607708812287	Marionette	INFO	Listening on port 51551
+1607708812451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607708945401	geckodriver	INFO	Listening on 127.0.0.1:51701
+1607708948455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileWLdEbD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607708952548	Marionette	INFO	Listening on port 51710
+1607708952661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607708992554	geckodriver	INFO	Listening on 127.0.0.1:51801
+1607708995606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilePPc9x8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607708999649	Marionette	INFO	Listening on port 51811
+1607708999815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/vendors~main.cf4df3f5.js, line 17: Script terminated by timeout at:
+i/<.innerState<@https://abs.twimg.com/responsive-web/client-web/vendors~main.cf4df3f5.js:17:83525
+i@https://abs.twimg.com/responsive-web/client-web/vendors~main.cf4df3f5.js:17:83608
+bRLQ/e.exports/<@https://abs.twimg.com/responsive-web/client-web/vendors~main.cf4df3f5.js:17:84675
+U/<@https://abs.twimg.com/responsive-web/client-web/main.1e157635.js:1:95918
+m@https://abs.twimg.com/responsive-web/client-web/vendors~main.cf4df3f5.js:9:11617
+k/</<@https://abs.twimg.com/responsive-web/client-web/main.1e157635.js:1:95692
+V/</<@https://abs.twimg.com/responsive-web/client-web/main.1e157635.js:1:96627
+r/</</<@https://abs.twimg.com/responsive-web/client-web/vendors~main.cf4df3f5.js:17:56702
+dispatch@https://abs.twimg.com/responsive-web/client-web/vendors~main.cf4df3f5.js:9:15368
+m/<@https://abs.twimg.com/responsive-web/client-web/main.1e157635.js:9:71761
+le/<@https://abs.twimg.com/responsive-web/client-web/main.1e157635.js:1:448369
+r/</</<@https://abs.twimg.com/responsive-web/client-web/vendors~main.cf4df3f5.js:17:56693
+dispatch@https://abs.twimg.com/responsive-web/client-web/vendors~main.cf4df3f5.js:9:15368
+de/<@https://abs.twimg.com/responsive-web/client-web/main.1e157635.js:1:448923
+r/</</<@https://abs.twimg.com/responsive-web/client-web/vendors~main.cf4df3f5.js:17:56693
+dispatch@https://abs.twimg.com/responsive-web/client-web/vendors~main.cf4df3f5.js:9:15368
+fetchInitialOrTop/<@https://abs.twimg.com/responsive-web/client-web/main.1e157635.js:1:453549
+r/</</<@https://abs.twimg.com/responsive-web/client-web/vendors~main.cf4df3f5.js:17:56693
+s/<@https://abs.twimg.com/responsive-web/client-web/vendors~main.cf4df3f5.js:9:13710
+_fetchInitialOrTop@https://abs.twimg.com/responsive-web/client-web/sharedCore.c81b7245.js:1:433225
+fetchTop@https://abs.twimg.com/responsive-web/client-web/sharedCore.c81b7245.js:1:431380
+Et/<@https://abs.twimg.com/responsive-web/client-web/bundle.HomeTimeline.2af9b525.js:1:19084
+
+1607709071709	geckodriver	INFO	Listening on 127.0.0.1:51936
+1607709074759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilekW2Ug5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607709078467	Marionette	INFO	Listening on port 51945
+1607709078934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607709126063	geckodriver	INFO	Listening on 127.0.0.1:52034
+1607709129116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilekHPBiE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607709132968	Marionette	INFO	Listening on port 52044
+1607709133303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607709170530	geckodriver	INFO	Listening on 127.0.0.1:52129
+1607709173597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile4Enxgc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607709177406	Marionette	INFO	Listening on port 52139
+1607709177781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 13 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~bundle.TopicPeek~ondemand.EmojiPicker.c36755e5.js)
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1607709218946	geckodriver	INFO	Listening on 127.0.0.1:52230
+1607709221984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileYIJgJc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607709226727	Marionette	INFO	Listening on port 52240
+1607709227256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607709235085	Marionette	INFO	Stopped listening on port 52240
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607709241754	geckodriver	INFO	Listening on 127.0.0.1:52303
+1607709244845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilegDjsQ3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607709248484	Marionette	INFO	Listening on port 52312
+1607709249018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607710169873	geckodriver	INFO	Listening on 127.0.0.1:52603
+1607710172940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiledf8iJa"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607710176832	Marionette	INFO	Listening on port 52611
+1607710177124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607710461637	geckodriver	INFO	Listening on 127.0.0.1:52700
+1607710464744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileNPcBgD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607710468703	Marionette	INFO	Listening on port 52710
+1607710468947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607710651986	geckodriver	INFO	Listening on 127.0.0.1:52799
+1607710655042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileHRdeJ6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607710658811	Marionette	INFO	Listening on port 52807
+1607710659205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607710798556	geckodriver	INFO	Listening on 127.0.0.1:52909
+1607710801626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilexKlsnp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607710805475	Marionette	INFO	Listening on port 52919
+1607710805795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607710909374	geckodriver	INFO	Listening on 127.0.0.1:53041
+1607710912429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileciqJZU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607710917162	Marionette	INFO	Listening on port 53050
+1607710917242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607710990031	geckodriver	INFO	Listening on 127.0.0.1:53167
+1607710993124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileHYytZr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607710997051	Marionette	INFO	Listening on port 53177
+1607710997330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607711075087	geckodriver	INFO	Listening on 127.0.0.1:53282
+1607711078149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileMB3Czy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607711081913	Marionette	INFO	Listening on port 53293
+1607711082336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607711168539	geckodriver	INFO	Listening on 127.0.0.1:53411
+1607711171602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileQsAY7t"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607711175952	Marionette	INFO	Listening on port 53421
+1607711176391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607711380942	geckodriver	INFO	Listening on 127.0.0.1:53654
+1607711383998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiledpSkVV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607711387949	Marionette	INFO	Listening on port 53663
+1607711388176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607711638513	geckodriver	INFO	Listening on 127.0.0.1:53817
+1607711641605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileEljbZ6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607711646739	Marionette	INFO	Listening on port 53826
+1607711646920	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607711749708	geckodriver	INFO	Listening on 127.0.0.1:54021
+1607711752758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilez3RGM8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607711756656	Marionette	INFO	Listening on port 54030
+1607711756957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607711839042	geckodriver	INFO	Listening on 127.0.0.1:54101
+1607711842097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileOf2idJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607711845883	Marionette	INFO	Listening on port 54109
+1607711846264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607711916189	geckodriver	INFO	Listening on 127.0.0.1:54197
+1607711919251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiles4cYAC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607711923745	Marionette	INFO	Listening on port 54205
+1607711924041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607711973958	geckodriver	INFO	Listening on 127.0.0.1:54286
+1607711976996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilejDBhXn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607711981413	Marionette	INFO	Listening on port 54294
+1607711981796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607712022928	geckodriver	INFO	Listening on 127.0.0.1:54371
+1607712025987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileRKZY68"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607712029567	Marionette	INFO	Listening on port 54380
+1607712029679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607712175047	geckodriver	INFO	Listening on 127.0.0.1:54463
+1607712178120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileSzlVx5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607712182225	Marionette	INFO	Listening on port 54471
+1607712182321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607712250867	geckodriver	INFO	Listening on 127.0.0.1:54553
+1607712253922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileBuUhH1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607712258226	Marionette	INFO	Listening on port 54562
+1607712258694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607712279983	geckodriver	INFO	Listening on 127.0.0.1:54635
+1607712283057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilea89gqu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607712288107	Marionette	INFO	Listening on port 54644
+1607712288356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607712313644	geckodriver	INFO	Listening on 127.0.0.1:54705
+1607712316692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileq1hA3o"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607712322871	Marionette	INFO	Listening on port 54717
+1607712323162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607712337901	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607712341980	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1607712356104	geckodriver	INFO	Listening on 127.0.0.1:54791
+1607712359146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileQzat04"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607712363575	Marionette	INFO	Listening on port 54806
+1607712363922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607712440170	geckodriver	INFO	Listening on 127.0.0.1:54886
+1607712443234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiles3aHwM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607712447016	Marionette	INFO	Listening on port 54895
+1607712447404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607712764064	geckodriver	INFO	Listening on 127.0.0.1:55191
+1607712767130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileTnWuOY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607712770729	Marionette	INFO	Listening on port 55201
+1607712770844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607713006246	geckodriver	INFO	Listening on 127.0.0.1:55366
+1607713009305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilekr5NXB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607713012913	Marionette	INFO	Listening on port 55374
+1607713012994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607713181765	geckodriver	INFO	Listening on 127.0.0.1:55465
+1607713184789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileVjDGNM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607713188992	Marionette	INFO	Listening on port 55473
+1607713189101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607713228545	geckodriver	INFO	Listening on 127.0.0.1:55543
+1607713231613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileOrleVt"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607713235275	Marionette	INFO	Listening on port 55551
+1607713235778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607713287465	geckodriver	INFO	Listening on 127.0.0.1:55628
+1607713290539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileRhGdu8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607713295105	Marionette	INFO	Listening on port 55636
+1607713295328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607713332456	geckodriver	INFO	Listening on 127.0.0.1:55702
+1607713335494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileJHr2TM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607713339563	Marionette	INFO	Listening on port 55711
+1607713339688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607713386606	geckodriver	INFO	Listening on 127.0.0.1:55781
+1607713389668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilemUbV3X"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607713393240	Marionette	INFO	Listening on port 55791
+1607713393355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607713441404	geckodriver	INFO	Listening on 127.0.0.1:55868
+1607713444464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilentB5RW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607713447903	Marionette	INFO	Listening on port 55876
+1607713448134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607713496972	geckodriver	INFO	Listening on 127.0.0.1:55966
+1607713500022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileNS5DBJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607713504426	Marionette	INFO	Listening on port 55975
+1607713504826	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://twitter.com/, line 148: ChunkLoadError: Loading chunk 161 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.12a3a9f5.js)
+JavaScript error: https://twitter.com/, line 148: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.c81b7245.js)
+JavaScript error: https://twitter.com/, line 148: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.c81b7245.js)
+JavaScript error: https://twitter.com/, line 148: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.c81b7245.js)
+JavaScript error: https://twitter.com/, line 148: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.c81b7245.js)
+JavaScript error: https://twitter.com/, line 148: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.c81b7245.js)
+JavaScript error: https://twitter.com/, line 148: ChunkLoadError: Loading chunk 270 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.emoji.tr.1f185545.js)
+JavaScript error: https://twitter.com/, line 148: ChunkLoadError: Loading chunk 52 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.8cd49fb5.js)
+JavaScript error: https://twitter.com/, line 148: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.c81b7245.js)
+1607713587538	geckodriver	INFO	Listening on 127.0.0.1:56107
+1607713590578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile4TuWaL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607713595046	Marionette	INFO	Listening on port 56115
+1607713595351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607713660749	geckodriver	INFO	Listening on 127.0.0.1:56194
+1607713663768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileW25yAy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607713667169	Marionette	INFO	Listening on port 56202
+1607713667421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607713758099	geckodriver	INFO	Listening on 127.0.0.1:56287
+1607713761119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileMC8ibA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607713764503	Marionette	INFO	Listening on port 56295
+1607713764799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607713886383	geckodriver	INFO	Listening on 127.0.0.1:56384
+1607713889412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile70tetJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607713892887	Marionette	INFO	Listening on port 56392
+1607713893076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607714069597	geckodriver	INFO	Listening on 127.0.0.1:56483
+1607714072617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileceuRmT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607714076133	Marionette	INFO	Listening on port 56491
+1607714076277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607714139057	geckodriver	INFO	Listening on 127.0.0.1:56565
+1607714142079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileReYvk5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607714145464	Marionette	INFO	Listening on port 56573
+1607714145719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607714213320	geckodriver	INFO	Listening on 127.0.0.1:56648
+1607714216341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileb0FCbn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607714219832	Marionette	INFO	Listening on port 56656
+1607714220011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 101: ChunkLoadError: Loading chunk 167 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.EmojiPicker.6e9f5dd5.js)
+1607714268043	geckodriver	INFO	Listening on 127.0.0.1:56728
+1607714271084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileyBDMjR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607714274516	Marionette	INFO	Listening on port 56736
+1607714274767	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
