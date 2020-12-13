@@ -32,3 +32,5 @@ tweet_list = browser.find_elements_by_xpath('//div[@data-testid="tweet"]/div[2]/
 
 for item in tweet_list:
     print(item.text)
+
+#Onwork
