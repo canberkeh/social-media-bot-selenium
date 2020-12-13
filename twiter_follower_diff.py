@@ -6,6 +6,7 @@ With lists and count numbers.
 import time
 from getpass import getpass
 from selenium import webdriver
+import xlsxwriter
 
 given_username = input("username : ") #Ask username
 given_password = getpass("pass : ") #Ask password (hidden)
@@ -103,3 +104,48 @@ print(len(who_not_follows_you))
 print("\n")
 print(who_not_followed)
 print(len(who_not_followed))
+
+workbook = xlsxwriter.Workbook(f'{given_username}_data.xlsx')
+worksheet = workbook.add_worksheet()
+
+bold = workbook.add_format({'bold': True})
+worksheet.write('A1', 'Followers', bold)
+worksheet.write('B1', 'Following', bold)
+worksheet.write('C1', 'Who Not Follows You', bold)
+worksheet.write('D1', 'Who You Not Follow', bold)
+worksheet.write('E1', 'Followers Count', bold)
+worksheet.write('F1', 'Following Count', bold)
+worksheet.write('G1', 'Count : Who Not Follows You', bold)
+worksheet.write('H1', 'Count : Who You Not Follow', bold)
+worksheet.write('E2', '=COUNTA(A:A) -1', bold)
+worksheet.write('F2', '=COUNTA(B:B) -1', bold)
+worksheet.write('G2', '=COUNTA(C:C) -1', bold)
+worksheet.write('H2', '=COUNTA(D:D) -1', bold)
+
+ROW = 1 # Start from
+COL = 0
+for item in followers_list: # Iterate over the data and write it out row by row.
+    worksheet.write(ROW, COL, item)
+    ROW += 1
+
+ROW = 1
+COL = 1
+
+for item in followings_list:
+    worksheet.write(ROW, COL, item)
+    ROW += 1
+
+ROW = 1
+COL = 2
+
+for item in who_not_follows_you:
+    worksheet.write(ROW, COL, item)
+    ROW += 1
+
+ROW = 1
+COL = 3
+
+for item in who_not_followed:
+    worksheet.write(ROW, COL, item)
+    ROW += 1
+workbook.close()
