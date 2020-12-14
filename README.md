@@ -6,4 +6,8 @@
 ### Instagram : 
 ### *Log in for now... Working on.* 
 
+<<<<<<< HEAD
 ![Selenium Photo](https://www.selenium.dev/images/selenium_logo_large.png)
+=======
+![Selenium Photo](https://www.selenium.dev/images/selenium_logo_large.png)
+>>>>>>> 3b59996 (Readme update)
