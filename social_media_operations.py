@@ -83,8 +83,7 @@ class SocialMediaBot():
         '''
         given_username = input("Enter Instagram Username : ")
         given_password = getpass("Enter Insragram Password :")
-        #KEEP MOVING FROM HERE !!!
-        
+
         print("Instagram Login Bot")
         if browser_name == "1":#Open site from browser
             browser = webdriver.Chrome(executable_path=browser_path)
@@ -93,14 +92,38 @@ class SocialMediaBot():
             browser = webdriver.Firefox(executable_path=browser_path)
 
         browser.get("https://www.instagram.com")
-        time.sleep(8)
-        username = browser.find_element_by_name("username")
-        username.send_keys(given_username)
-        password = browser.find_element_by_name('password')
-        password.send_keys(given_password)
+        time.sleep(5)
+        browser.find_element_by_name("username").send_keys(given_username)
+        browser.find_element_by_name('password').send_keys(given_password)
+        browser.find_element_by_xpath('//*[@id="loginForm"]/div/div[3]').click()
+        time.sleep(3)
+        followers_list = []
+        followings_list = []
+        
+        browser.get(f"https://www.instagram.com/{given_username}/followers/")
+        time.sleep(5)
 
-        login_click = browser.find_element_by_xpath('//*[@id="loginForm"]/div/div[3]')
-        login_click.click()
+        last_height_following = browser.execute_script("return document.documentElement.scrollHeight") #Scroll down
+        while True:
+            followings = browser.find_elements_by_xpath('//*[@id="f31cf579e3e66c"]/div/div/span')
+            for following in followings:
+                each_following = following.text
+                if each_following not in followings_list:
+                    followings_list.append(each_following) #Append to the followings_list
+
+            browser.execute_script("window.scrollTo(0, document.documentElement.scrollHeight); ")#Keep scrolling down
+            time.sleep(3)
+            new_height_following = browser.execute_script("return document.documentElement.scrollHeight")
+
+            if new_height_following == last_height_following:
+                break
+            last_height_following = new_height_following
+        
+
+        browser.get(f"https://www.instagram.com/{given_username}/following/")
+
+
+
 
     def twitter_follower_diff(self, browser_name, browser_path):
         '''
