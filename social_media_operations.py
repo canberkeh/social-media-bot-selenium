@@ -39,17 +39,9 @@ class SocialMediaBot():
             print("\nChoose Social Media\n1- Instagram\n2- Twitter")
             select = input("Make selection 1/2 : ")
             if select == "1":
-                given_username = input("Enter Instagram Username : ")
-                given_password = getpass("Enter Insragram Password :")
-                self.instagram_login_bot(given_username, given_password, browser_name, browser_path)
-
-
+                self.choose_operation_instagram(browser_name, browser_path)
             elif select == "2":
-                # given_username = input("Enter Twitter Username : ")
-                # given_password = getpass("Enter Twitter Password :")
-                # self.twitter_login_bot(given_username, given_password, browser_name, browser_path)
                 self.choose_operation_twitter(browser_name, browser_path)
-
             else:
                 print("Wrong Choice ! 1-2")
                 continue
@@ -69,11 +61,30 @@ class SocialMediaBot():
             else:
                 print("Wrong Choice ! 1-2")
                 continue
+    
+    def choose_operation_instagram(self, browser_name, browser_path):
+        continue_on = True
+        while continue_on:
+            print("\n1- Get followers list and compare\n2- Auto like photos\n3- Auto follow wanted account")
+            select = input("Make selection 1/2/3 : ")
+            if select == "1":
+                self.instagram_follower_dif(browser_name, browser_path)
+            elif select == "2":
+                pass
+            elif select == "3":
+                pass
+            else:
+                print("Wrong Choice ! 1-2")
+                continue
 
-    def instagram_login_bot(self, given_username, given_password, browser_name, browser_path):
+    def instagram_follower_dif(self, browser_name, browser_path):
         '''
-        Logs in instagram
+        Logs in instagram. Get follower/following list on an excel table with count numbers.
         '''
+        given_username = input("Enter Instagram Username : ")
+        given_password = getpass("Enter Insragram Password :")
+        #KEEP MOVING FROM HERE !!!
+        
         print("Instagram Login Bot")
         if browser_name == "1":#Open site from browser
             browser = webdriver.Chrome(executable_path=browser_path)
