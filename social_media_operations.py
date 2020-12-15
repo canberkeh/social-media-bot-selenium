@@ -65,10 +65,10 @@ class SocialMediaBot():
     def choose_operation_instagram(self, browser_name, browser_path):
         continue_on = True
         while continue_on:
-            print("\n1- Get followers list and compare\n2- Auto like photos\n3- Auto follow wanted account")
+            print("\n1- Instagram Login")
             select = input("Make selection 1/2/3 : ")
             if select == "1":
-                self.instagram_follower_dif(browser_name, browser_path)
+                self.instagram_login(browser_name, browser_path)
             elif select == "2":
                 pass
             elif select == "3":
@@ -77,7 +77,7 @@ class SocialMediaBot():
                 print("Wrong Choice ! 1-2")
                 continue
 
-    def instagram_follower_dif(self, browser_name, browser_path):
+    def instagram_login(self, browser_name, browser_path):
         '''
         Logs in instagram. Get follower/following list on an excel table with count numbers.
         '''
@@ -94,13 +94,12 @@ class SocialMediaBot():
 
         browser.get("https://www.instagram.com")
         time.sleep(8)
-        username = browser.find_element_by_name("username")
-        username.send_keys(given_username)
-        password = browser.find_element_by_name('password')
-        password.send_keys(given_password)
-
-        login_click = browser.find_element_by_xpath('//*[@id="loginForm"]/div/div[3]')
-        login_click.click()
+        browser.find_element_by_name("username").send_keys(given_username)
+        browser.find_element_by_name('password').send_keys(given_password)
+        browser.find_element_by_xpath('//*[@id="loginForm"]/div/div[3]').click()
+        time.sleep(4)
+        browser.get(f"https://www.instagram.com/{given_username}")
+        time.sleep(50)
 
     def twitter_follower_diff(self, browser_name, browser_path):
         '''
